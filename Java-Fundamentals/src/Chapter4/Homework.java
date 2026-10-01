@@ -9,6 +9,10 @@ import java.util.Scanner;
  **/
 
 public class Homework {
+    static String firstName;
+    static String lastName;
+    static int age;
+    static String grade;
 
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
